@@ -1,7 +1,8 @@
-2
+2 the only even prime
 3
 5
 7
+larger than 10
 11
 13
 17
